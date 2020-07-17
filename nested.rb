@@ -109,7 +109,7 @@ def changing_alan
 		  :languages => ["LISP", "C"]
 		 }
 
-		programmer_hash 
+		programmer_hash
 end
 
 def adding_to_dennis
