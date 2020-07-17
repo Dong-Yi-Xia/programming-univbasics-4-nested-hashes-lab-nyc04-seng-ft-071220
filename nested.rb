@@ -111,7 +111,7 @@ def changing_alan
       }
     }
 
-
+		programmer_hash[:alan_kay][:languages] = "GUI"
 end
 
 def adding_to_dennis
